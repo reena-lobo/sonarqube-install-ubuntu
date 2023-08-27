@@ -192,7 +192,9 @@ check if the sonarqube service is running,
 
  sudo systemctl status sonar
 Successfully, We have covered How to Install SonarQube on Ubuntu 22.04 LTS .
-Save and close the file. Now stop the sonarqube script earlier we started to run using as daemon. Start the Sonarqube daemon by running
+Save and close the file. 
+Now stop the sonarqube script earlier we started to run using as daemon.
+Start the Sonarqube daemon by running
 Step #6: Access SonarQube
 To access the SonarQube using browser type server IP followed by port 9000.
 
